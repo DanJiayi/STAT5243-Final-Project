@@ -1,3 +1,4 @@
 *.npy
 *.h5ad
-*.npz
+*.npz.DS_Store
+**/.DS_Store
